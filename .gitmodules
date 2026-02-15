@@ -1,0 +1,4 @@
+[submodule "Semesterprojekt/VejledendeLoesning"]
+	path = Semesterprojekt/VejledendeLoesning
+	url = https://github.com/kbr-ucl/TicketHub-VejledendeLoesning.git
+	branch = main
